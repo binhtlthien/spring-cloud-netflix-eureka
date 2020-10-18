@@ -1,1 +1,1 @@
-# spring-cloud-nextflix-eureka
+# spring-cloud-netflix-eureka
